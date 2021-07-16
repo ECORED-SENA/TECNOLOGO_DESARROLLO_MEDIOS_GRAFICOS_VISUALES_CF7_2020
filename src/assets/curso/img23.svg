@@ -1,0 +1,10 @@
+<svg id="paleta-de-color" xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <circle id="Elipse_4053" data-name="Elipse 4053" cx="42.5" cy="42.5" r="42.5" fill="#7883ee"/>
+  <path id="Trazado_100538" data-name="Trazado 100538" d="M172.973,131.72l-41,41.1,22,22a42.5,42.5,0,0,0,41.06-41.044Z" transform="translate(-110.062 -109.852)" fill="#6369e5"/>
+  <path id="Trazado_100539" data-name="Trazado 100539" d="M109.808,81.006a29.052,29.052,0,0,0,.122,58.1l4.195-29.051-4.195-29.05Z" transform="translate(-67.553 -67.557)" fill="#ffce00"/>
+  <path id="Trazado_100540" data-name="Trazado 100540" d="M264.757,137.567a5.243,5.243,0,0,0,2.763-7.741A9.966,9.966,0,0,1,278.1,114.777a5.245,5.245,0,0,0,6.332-5.242q0-.143-.007-.287a29.128,29.128,0,0,0-29.164-28.239v58.1c.095,0,.189,0,.284,0A29.007,29.007,0,0,0,264.757,137.567Z" transform="translate(-212.884 -67.56)" fill="#ffa300"/>
+  <circle id="Elipse_4054" data-name="Elipse 4054" cx="5.811" cy="5.811" r="5.811" transform="translate(45.937 22.734)" fill="#f42520"/>
+  <circle id="Elipse_4055" data-name="Elipse 4055" cx="5.811" cy="5.811" r="5.811" transform="translate(19.785 36.689)" fill="#fff"/>
+  <circle id="Elipse_4056" data-name="Elipse 4056" cx="5.811" cy="5.811" r="5.811" transform="translate(27.197 50.645)" fill="#a6d4fd"/>
+  <circle id="Elipse_4057" data-name="Elipse 4057" cx="5.811" cy="5.811" r="5.811" transform="translate(27.197 22.734)" fill="#2bd765"/>
+</svg>
