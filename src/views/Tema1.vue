@@ -50,7 +50,7 @@
           |Es claro que a los clientes se les debe presentar periódicamente miniaturas de bocetos, entre más detallado sea el boceto más fácilmente se obtendrá la aprobación de este. Usualmente se deben entregar una serie de bocetos en bruto, para que el cliente los revise y proponga sus modificaciones o cambios, luego se realizarán bocetos más completos que también deben ser aprobados antes de ser realizados en medio digital, entonces el cliente debe estar de acuerdo con el arte antes de continuar con las etapas posteriores; siempre es importante la aprobación completa por parte del cliente, antes de pasar a la etapa final de ilustración.
       .col-lg-5 
         figure.mb-5
-          img(src='@/assets/curso/img7.jpg', alt='Texto que describa la imagen')(data-aos="fade-up")
+          img(src='@/assets/curso/img7.jpg', alt='Texto que describa la imagen')(data-aos="fade-left")
 
 
 
