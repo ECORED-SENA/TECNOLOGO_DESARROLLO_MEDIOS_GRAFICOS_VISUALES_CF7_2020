@@ -52,6 +52,7 @@
         p Esta se compone de la pantalla principal que se puede observar al abrir el programa, como la barra de aplicación, además de los íconos, herramientas, comandos y demás componentes y herramientas que conforman el programa. 
     #t_2_2.titulo-segundo
       h2 2.2. Principales herramientas
+    p.mb-5 Las herramientas de Photoshop se encunetran enmarcadas en la interfaz al lado izquiedo, de arriba hacia abajo. Cuenta con varios tipos de herramientas las cuales están agrupadas de acuerdo con su uso y aplicación, dentro de las que se encunetran en la siguiente figura. 
     figure.mb-5   
       img(src='@/assets/curso/img12.png', alt='Texto que describa la imagen')
       figcaption Nota. Tomada de https://www.fotoaprendizaje.com/las-principales-herramientas-de-photoshop/
@@ -144,6 +145,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Motivos
             p Muestra diferentes tipos de motivos de árboles, hierba, agua, entre otros. 
+    p.mb-5 Para conocer más acerca de los modos que facilitan el programa es importante conocer lo que al respecto dice Kalous (2010), esto es: 
     .row.mb-5 
       .col-lg-3
         img.mb-3(src='@/assets/curso/img19.jpg', alt='Texto que describa la imagen')
@@ -377,7 +379,7 @@
         h4 Lazo
         .d-flex.align-items-center
           img.mb-3(src='@/assets/curso/img33.svg', alt='Texto que describa la imagen' style='width: 80px')
-          p.ms-4 “Sirve para mover el contenido de la capa en la que estamos trabajando. La capa se mueve por completo o bien solo el área seleccionada, si es que había una selección creada”. 
+          p.ms-4 “Esta herramienta sirve para hacer selecciones a mano alzada, haciendo clic en un área de la imagen y pintando la selección a mano. La verdad es que la herramienta no es muy utilizada en el trabajo del día a día, pero es sencilla para practicar en un primer periodo”. 
         img.mb-3(src='@/assets/curso/img37.jpg', alt='Texto que describa la imagen')
       .col-lg-6 
         h4 Lazo Poligonal
@@ -567,6 +569,7 @@
       br
       |El documento en el que se encuentra la imagen tiene exactamente las mismas medidas y configuraciones que las que tiene la imagen de por sí. Aquí se incluye, por ejemplo, la resolución, la anchura y la altura, así como el modo de color utilizado.
     h4 Importar un archivo PDF
+    p.mb-5 En cuanto al tema de importación de archivos PDF, se indica en Photoshop CS6 lo siguiente: 
     .row.mb-5.justify-content-center
       .col-lg-10
         .cajon.color-primario.color--primario-claro.p-4.mb-4

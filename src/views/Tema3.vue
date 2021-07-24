@@ -171,7 +171,7 @@
     p.mb-5 Las técnicas digitales de ilustración dependen del uso de programas de software especializado que cuentan con herramientas y elementos pertinentes para esta labor. Dentro de las principales técnicas digitales de ilustración se encuentran las siguientes:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Técnica digital en mapa de bits o imágenes rasterizadas")
-          p.px-5 Se basa en la edición de gráficos elaborados con base en puntos o pixeles. El programa más utilizado en esta técnica es Adobe Photoshop, que permite trabajar con gráficos y retoque fotográfico, al igual que con la configuración de pinceles, estructura de capas y modos de transparencia
+          p.px-5 Se basa en la edición de gráficos elaborados con base en puntos o pixeles. El programa más utilizado en esta técnica es Adobe Photoshop, que permite trabajar con gráficos y retoque fotográfico, al igual que con la configuración de pinceles, estructura de capas y modos de transparencia.
       .row(titulo="Técnica digital con vectores")
           p.px-5 Un vector es una imagen creada mediante fórmulas matemáticas, formada por curvas, esta técnica es muy popular y tiene amplia utilización en los programas Adobe Illustrator y CorelDRAW; se caracteriza por líneas limpias, colores planos y formas simples. Tiene una ventaja ya que se puede aumentar, disminuir o modificar el tamaño de la imagen sin que pierda nitidez ni calidad.
       .row(titulo="Técnica digital en modelado 3D")
@@ -290,7 +290,7 @@ export default {
       {
         titulo: 'Ilustración digital',
         texto:
-          'Es una de las más utilizadas en la actualidad, presenta una riqueza infinita en cuanto a herramientas, programas, usos, color y efectos. se basa implícitamente en la  ilustración digital, complementándola con efectos, texturas, colores y elementos propios del software.',
+          'Es una de las más utilizadas en la actualidad, presenta una riqueza infinita en cuanto a herramientas, programas, usos, color y efectos. Se basa implícitamente en la  ilustración digital, complementándola con efectos, texturas, colores y elementos propios del software.',
         imagen: require('@/assets/curso/img63.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -368,7 +368,7 @@ export default {
       {
         titulo: 'Protagonista',
         texto:
-          'Es el personaje principal de cualquier obra, texto o película, por ejemplo, película Enredados, los protagonistas son Rapunzel y Flynn Rider; Harry Potter; Mulan, entre otros. ',
+          'Es el personaje principal de cualquier obra, texto o película, por ejemplo, película Enredados, los protagonistas son Rapunzel y Flynn Rider; Harry Potter; Mulán, entre otros. ',
         imagen: require('@/assets/curso/img98.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
