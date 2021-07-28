@@ -51,8 +51,8 @@
         h3 Interfaz de Photoshop
         p Esta se compone de la pantalla principal que se puede observar al abrir el programa, como la barra de aplicación, además de los íconos, herramientas, comandos y demás componentes y herramientas que conforman el programa. 
     #t_2_2.titulo-segundo
-      h2 2.2. Principales herramientas
-    p.mb-5 Las herramientas de Photoshop se encunetran enmarcadas en la interfaz al lado izquiedo, de arriba hacia abajo. Cuenta con varios tipos de herramientas las cuales están agrupadas de acuerdo con su uso y aplicación, dentro de las que se encunetran en la siguiente figura. 
+      h2 2.2 Principales herramientas
+    p.mb-5 Las herramientas de Photoshop se encuentran enmarcadas en la interfaz al lado izquiedo, de arriba hacia abajo. Cuenta con varios tipos de herramientas las cuales están agrupadas de acuerdo con su uso y aplicación, dentro de las que se encunetran en la siguiente figura. 
     figure.mb-5   
       img(src='@/assets/curso/img12.png', alt='Texto que describa la imagen')
       figcaption Nota. Tomada de https://www.fotoaprendizaje.com/las-principales-herramientas-de-photoshop/

@@ -97,7 +97,7 @@
       b “trucos” 
       | publicitarios:
     .row.mb-5
-      .col-lg-4: img(src='@/assets/curso/img78.svg', alt='Texto que describa la imagen')
+      .col-lg-4: img(src='@/assets/curso/img78.png', alt='Texto que describa la imagen')
       .col-lg-8
         ul.lista-ul--color
           li 
