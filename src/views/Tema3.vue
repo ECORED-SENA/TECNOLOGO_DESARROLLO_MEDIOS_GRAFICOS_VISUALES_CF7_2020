@@ -18,7 +18,21 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/e6OIcnOrbW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Historia de la ilustración
-
+    .row.justify-content-center.mb-5 
+      .col-lg-10
+        .tarjeta.gradient1.p-3.mb-5
+          .row.justify-content-center.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/img41.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Ilustracion Fases - Segunda fase
+                  p.text-small A continuación, descargue la infografía Ilustracion Fases - Segunda fase
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/ILUSTRACION_SEGUNDA_FASE.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download    
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
     #t_3_2.titulo-segundo
