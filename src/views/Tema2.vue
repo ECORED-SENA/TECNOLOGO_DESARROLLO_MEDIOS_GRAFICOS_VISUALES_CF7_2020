@@ -68,8 +68,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4nH4L0G0ncA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Interfaz de Photoshop
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
@@ -85,7 +85,7 @@
                   h3.mb-1 Video Interfaz de Photoshop
                   p.text-small A manera de ejemplo se presenta el siguiente video, se recomienda su descarga.  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/4nH4L0G0ncA')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     h4.mb-5 Herramientas de color
@@ -171,8 +171,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/UHFojBUqYH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Manejo de color
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
@@ -188,7 +188,7 @@
                   h3.mb-1 Video Herramientas de color
                   p.text-small A continuación, observe el video Herramientas de color para una mejor comprensión del tema.  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/UHFojBUqYH8')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download     
     h4.mb-5 Herramientas de pinceles
@@ -236,8 +236,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kAvP-bzDmZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Herramientas de pinceles
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
@@ -253,7 +253,7 @@
                   h3.mb-1 Video Pinceles
                   p.text-small A continuación, observe el video Pinceles para una mejor comprensión del tema.  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/kAvP-bzDmZM')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download     
     h4.mb-4 Herramientas de ilustración y dibujo
@@ -317,8 +317,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4NgovY58BQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Herramientas de ilustración y dibujo
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
@@ -334,7 +334,7 @@
                   h3.mb-1 Video Pluma
                   p.text-small A continuación, observe el video Pluma para una mejor comprensión del tema.  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/4NgovY58BQU')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download     
     h4 Herramientas de selección y organización de objetos
@@ -422,8 +422,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LGnWfizDQ80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Manejo de capas
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
@@ -439,7 +439,7 @@
                   h3.mb-1 Video Capas
                   p.text-small A continuación, observe el video Capas para una mejor comprensión del tema.  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/LGnWfizDQ80')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download    
     #t_2_4.titulo-segundo
@@ -519,8 +519,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/lTiWOy_K2ZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Manejo de textos
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
@@ -536,7 +536,7 @@
                   h3.mb-1 Video Texto
                   p.text-small A continuación, observe el video Texto para una mejor comprensión del tema. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/lTiWOy_K2ZM')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     #t_2_5.titulo-segundo

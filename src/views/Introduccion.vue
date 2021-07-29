@@ -8,6 +8,10 @@
         span
           i.fas.fa-info
       h1 Introducción
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Bocetación e ilustración: introducción
     .row.mb-5 
       .col-lg-6
         p La ilustración es una creación que se realiza con un fin o propósito, va acompañada generalmente por un texto que resalta el mensaje, ya sea como ejercicio creativo o como medio de comunicación visual de una marca, empresa o proyecto, que busca concebir una idea en particular, haciendo que los espectadores generen recordación, empatía, apropiación, entre otras ideas más.
