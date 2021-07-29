@@ -73,21 +73,21 @@
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
-    .row.justify-content-center.mb-5 
-      .col-lg-10
-        .tarjeta.gradient1.p-3.mb-5
-          .row.justify-content-center.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/img13.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Video Interfaz de Photoshop
-                  p.text-small A manera de ejemplo se presenta el siguiente video, se recomienda su descarga.  
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/4nH4L0G0ncA')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+    //- .row.justify-content-center.mb-5 
+    //-   .col-lg-10
+    //-     .tarjeta.gradient1.p-3.mb-5
+    //-       .row.justify-content-center.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/img13.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               h3.mb-1 Video Interfaz de Photoshop
+    //-               p.text-small A manera de ejemplo se presenta el siguiente video, se recomienda su descarga.  
+    //-             .col-sm-auto
+    //-               a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/4nH4L0G0ncA')" target="_blank")
+    //-                 span Descargar
+    //-                 i.fas.fa-file-download
     h4.mb-5 Herramientas de color
     .row.mb-5 
       .col-lg-1.col-md-2.col-sm-3.col-xs-4
@@ -176,21 +176,21 @@
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
-    .row.justify-content-center.mb-5 
-      .col-lg-10
-        .tarjeta.gradient1.p-3.mb-5
-          .row.justify-content-center.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/img23.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Video Herramientas de color
-                  p.text-small A continuación, observe el video Herramientas de color para una mejor comprensión del tema.  
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/UHFojBUqYH8')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download     
+    //- .row.justify-content-center.mb-5 
+    //-   .col-lg-10
+    //-     .tarjeta.gradient1.p-3.mb-5
+    //-       .row.justify-content-center.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/img23.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               h3.mb-1 Video Herramientas de color
+    //-               p.text-small A continuación, observe el video Herramientas de color para una mejor comprensión del tema.  
+    //-             .col-sm-auto
+    //-               a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/UHFojBUqYH8')" target="_blank")
+    //-                 span Descargar
+    //-                 i.fas.fa-file-download     
     h4.mb-5 Herramientas de pinceles
     .row.mb-5 
       .col-lg-1.col-md-2.col-sm-3.col-xs-4
@@ -241,21 +241,21 @@
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
-    .row.justify-content-center.mb-5 
-      .col-lg-10
-        .tarjeta.gradient1.p-3.mb-5
-          .row.justify-content-center.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/img25.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Video Pinceles
-                  p.text-small A continuación, observe el video Pinceles para una mejor comprensión del tema.  
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/kAvP-bzDmZM')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download     
+    //- .row.justify-content-center.mb-5 
+    //-   .col-lg-10
+    //-     .tarjeta.gradient1.p-3.mb-5
+    //-       .row.justify-content-center.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/img25.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               h3.mb-1 Video Pinceles
+    //-               p.text-small A continuación, observe el video Pinceles para una mejor comprensión del tema.  
+    //-             .col-sm-auto
+    //-               a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/kAvP-bzDmZM')" target="_blank")
+    //-                 span Descargar
+    //-                 i.fas.fa-file-download     
     h4.mb-4 Herramientas de ilustración y dibujo
     p.mb-5 Estas herramientas ofrecen excelentes resultados a la hora de elaborar un dibujo o una ilustración y no deben faltar en la mesa de trabajo; a continuación, se describen así como sus bondades:
     h5.mb-5  Herramienta pluma
@@ -322,21 +322,21 @@
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
-    .row.justify-content-center.mb-5 
-      .col-lg-10
-        .tarjeta.gradient1.p-3.mb-5
-          .row.justify-content-center.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/img25.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Video Pluma
-                  p.text-small A continuación, observe el video Pluma para una mejor comprensión del tema.  
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/4NgovY58BQU')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download     
+    //- .row.justify-content-center.mb-5 
+    //-   .col-lg-10
+    //-     .tarjeta.gradient1.p-3.mb-5
+    //-       .row.justify-content-center.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/img25.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               h3.mb-1 Video Pluma
+    //-               p.text-small A continuación, observe el video Pluma para una mejor comprensión del tema.  
+    //-             .col-sm-auto
+    //-               a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/4NgovY58BQU')" target="_blank")
+    //-                 span Descargar
+    //-                 i.fas.fa-file-download     
     h4 Herramientas de selección y organización de objetos
     p.mb-5 En Photoshop existen varias herramientas de selección que, como su nombre mismo lo indican, permiten seleccionar objetos dentro del área de trabajo, las cuales son útiles dependiendo la función que se busque, según Desarrolloweb (2019) se tiene lo siguiente en cuanto a este tema:
 
@@ -427,21 +427,21 @@
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
-    .row.justify-content-center.mb-5 
-      .col-lg-10
-        .tarjeta.gradient1.p-3.mb-5
-          .row.justify-content-center.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/img41.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Video Capas
-                  p.text-small A continuación, observe el video Capas para una mejor comprensión del tema.  
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/LGnWfizDQ80')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download    
+    //- .row.justify-content-center.mb-5 
+    //-   .col-lg-10
+    //-     .tarjeta.gradient1.p-3.mb-5
+    //-       .row.justify-content-center.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/img41.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               h3.mb-1 Video Capas
+    //-               p.text-small A continuación, observe el video Capas para una mejor comprensión del tema.  
+    //-             .col-sm-auto
+    //-               a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/LGnWfizDQ80')" target="_blank")
+    //-                 span Descargar
+    //-                 i.fas.fa-file-download    
     #t_2_4.titulo-segundo
       h2 2.4 Manejo de textos
     p.mb-5 La herramienta texto es muy fácil de utilizar, se encuentra ubicada en la barra izquierda de herramientas y se encuentra denominada por la letra (T). Al abrir el menú desplegable se pueden observar las herramientas correspondientes como se ve en pantalla. 
@@ -524,21 +524,21 @@
 
 
     // TODO! añadir video cuando este listo !!! -------------------------------------------------------------------------------------------------------------------------
-    .row.justify-content-center.mb-5 
-      .col-lg-10
-        .tarjeta.gradient1.p-3.mb-5
-          .row.justify-content-center.align-items-center
-            .col-3.col-sm-2.col-lg-1 
-              img(src="@/assets/curso/img41.svg") 
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Video Texto
-                  p.text-small A continuación, observe el video Texto para una mejor comprensión del tema. 
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/lTiWOy_K2ZM')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+    //- .row.justify-content-center.mb-5 
+    //-   .col-lg-10
+    //-     .tarjeta.gradient1.p-3.mb-5
+    //-       .row.justify-content-center.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1 
+    //-           img(src="@/assets/curso/img41.svg") 
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               h3.mb-1 Video Texto
+    //-               p.text-small A continuación, observe el video Texto para una mejor comprensión del tema. 
+    //-             .col-sm-auto
+    //-               a.boton.color-acento-botones(:href="('https://www.youtube.com/embed/lTiWOy_K2ZM')" target="_blank")
+    //-                 span Descargar
+    //-                 i.fas.fa-file-download
     #t_2_5.titulo-segundo
       h2 2.5 Importación y exportación
     p.mb-5 La información que se encuentra sobre este tema tan importante en Onlineprinters Blog (2021), describe lo siguiente: 
