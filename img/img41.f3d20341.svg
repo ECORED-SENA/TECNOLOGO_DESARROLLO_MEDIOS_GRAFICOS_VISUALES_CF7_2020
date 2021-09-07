@@ -1,0 +1,12 @@
+<svg id="capa" xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <circle id="Elipse_4069" data-name="Elipse 4069" cx="42.5" cy="42.5" r="42.5" transform="translate(0 0)" fill="#61729b"/>
+  <path id="Trazado_100644" data-name="Trazado 100644" d="M101.752,199.729l5.969,5.969-5.969,3.032,5.923,5.923-5.925,3.081,32.875,33.207a42.532,42.532,0,0,0,34.659-34.9L152.96,199.717" transform="translate(-84.858 -166.561)" fill="#47568c"/>
+  <g id="Grupo_53805" data-name="Grupo 53805" transform="translate(16.891 16.559)">
+    <path id="Trazado_100645" data-name="Trazado 100645" d="M152.962,279.284,127.354,295.89l-25.609-16.606,8.413-5.762H144.43Z" transform="translate(-101.745 -244.672)" fill="#ffd396"/>
+    <path id="Trazado_100646" data-name="Trazado 100646" d="M281.609,279.284,256,295.89V273.522h17.076Z" transform="translate(-230.391 -244.672)" fill="#ffb64c"/>
+    <path id="Trazado_100647" data-name="Trazado 100647" d="M152.962,225.054,127.354,241.83l-25.609-16.776,8.413-5.762H144.43Z" transform="translate(-101.745 -199.445)" fill="#ff641a"/>
+    <path id="Trazado_100648" data-name="Trazado 100648" d="M281.609,225.054,256,241.83V219.292h17.076Z" transform="translate(-230.391 -199.445)" fill="#f03800"/>
+    <path id="Trazado_100649" data-name="Trazado 100649" d="M127.354,99.745l-25.609,16.606,25.609,16.776,25.609-16.776Z" transform="translate(-101.745 -99.745)" fill="#c3ea21"/>
+    <path id="Trazado_100650" data-name="Trazado 100650" d="M281.609,116.351,256,133.126V99.745Z" transform="translate(-230.391 -99.745)" fill="#9cdd05"/>
+  </g>
+</svg>
